@@ -2,7 +2,7 @@ CROSS_HOST="x86_64-w64-mingw32"
 inherit cross
 
 NAME="mingw64-x86_64-SDL2_ttf"
-VERSION=2.0.12
+VERSION=2.0.14
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="SDL2 TrueType font library for Win64 toolchain"
